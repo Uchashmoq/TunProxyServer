@@ -12,7 +12,7 @@ serverAddr=127.0.0.1
 #服务器端口
 port=14445
 #用于aes cbc模式加密的初始向量，16个字节，服务器和客户端上的staticKey应保持一致
-staticKey=HrGZo2uaSgDnL4Ke
+staticKey=HrGZo2uaSgccL4Ke
 ```
 
 下载好依赖后，运行主类，**将config.properties的路径作为第一个运行实参**
