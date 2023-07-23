@@ -15,5 +15,5 @@ port=14445
 staticKey=HrGZo2uaSgccL4Ke
 ```
 
-下载好依赖后，运行主类，**将config.properties的路径作为第一个运行实参**
+下载好依赖后，**将config.properties的路径作为第一个运行实参**，运行主类
 
