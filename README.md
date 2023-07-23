@@ -1,7 +1,7 @@
 # TunProxyServer
 
 一个简单的采用aes加密的socks5代理
-
+![客户端仓库](https://github.com/Uchashmoq/TunProxyClient)
 #### 启动
 
 程序入口`src\main\java\proxy\tun\Main.java` , 创建 `config.properties`,内容示例如下（注意大小写）
